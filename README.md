@@ -1,4 +1,4 @@
-***#☀️ Solar Energy Prediction using XGBoost and Random Forest
+ # ☀️ **Solar Energy Prediction using XGBoost and Random Forest**
 This project predicts **solar radiation levels (solar energy output)** using **meteorological parameters** such as temperature, humidity, pressure, wind speed, and wind direction.
 The goal is to accurately forecast **solar energy potential** using two advanced machine learning algorithms — **Random Forest** and **XGBoost**.
 
