@@ -36,7 +36,7 @@ This notebook demonstrates the full workflow of a **machine learning regression 
 
 ---
 
-##🧩 Project Progress Tracker
+## 🧩 Project Progress Tracker
 | Step | Task                                        | Status |
 | :--: | ------------------------------------------- | :----: |
 |  ✅ 1 | Data cleaned and datetime fixed             | ✔ Done |
